@@ -10,7 +10,7 @@ from sort import *
 # cap.set(3, 640)
 # cap.set(4, 480)
 
-# detection of video file
+# detection of vehicles in video file
 cap = cv2.VideoCapture("./resources/video/cars1.mp4")
 
 model = YOLO('./weights/yolov8s.pt')
