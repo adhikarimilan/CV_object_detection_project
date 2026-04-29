@@ -32,7 +32,11 @@ This tool can be applied to traffic flow analysis, urban planning, and automated
 
 ## Screenshots
 
-![Demo1](/resources/image/demo/1.png "This is a demo 1 image.")
-![Demo2](/resources/image/demo/2.png "This is a demo 2 image.")
-![Demo3](/resources/image/demo/3.png "This is a demo 3 image.")
-![Demo4](/resources/image/demo/4.png "This is a demo 4 image.")
+![Demo1](/object_detection_with_Yolo/resources/image/demo/1.png "This is a demo 1 image.")
+![Demo2](/object_detection_with_Yolo/resources/image/demo/2.png "This is a demo 2 image.")
+![Demo3](/object_detection_with_Yolo/resources/image/demo/3.png "This is a demo 3 image.")
+![Demo4](/object_detection_with_Yolo/resources/image/demo/4.png "This is a demo 4 image.")
+
+## Links
+
+See the demo [here](https://www.linkedin.com/posts/milankadhikari_opencv-python-computervision-ugcPost-7455145389399339009-ZXSO?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAACf6de4ByMFpH1WDxgXbv5lckrK8NvZzrWM).
